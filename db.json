@@ -7,10 +7,10 @@
       "category": "Electronics"
     },
     {
-      "id": 2,
       "name": "Watch",
       "price": 2500,
-      "category": "Accessories"
+      "category": "Accessories",
+      "id": 2
     },
     {
       "name": "Realme 13 pro",
