@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 60000,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Watch",
+      "price": 2500,
+      "category": "Accessories"
+    },
+    {
+      "name": "Realme 13 pro",
+      "price": 22000,
+      "category": "mobile",
+      "id": 3
+    }
+  ]
+}
